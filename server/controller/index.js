@@ -71,8 +71,7 @@ export default (req, res) => {
     const totalDistance = distances.reduce((total, number) => total + number, 0);
 
     res.send(
-      `<p>Drone arrivé à bon port.</p>
-        <p>Distance parcourue : ${totalDistance}.</p>
+      `<p>Distance parcourue : ${totalDistance}.</p>
       <p>Noeuds visités: ${Object.keys(visitedNodes)}.</p>`
     );
   }
