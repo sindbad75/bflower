@@ -1,5 +1,12 @@
 # bflyer
 
+###Prerequisites
+
+Node.js : https://nodejs.org/en/download/package-manager/
+
+Yarn : https://yarnpkg.com/lang/en/ or NPM : https://www.npmjs.com/
+
+
 
 ### Installing locally
 
