@@ -1,4 +1,4 @@
-# bflower
+# bflyer
 
 
 ### Installing locally
@@ -7,11 +7,19 @@ Install :
 
 `yarn`
 
-Run the back :
+Run :
 
-`yarn start:server2 `
+`yarn start:server2`
 
 
 ### Run app in browser
 
-Go to http://localhost:3000/
+
+Drone 1:
+http://localhost:3000/?depart=1&arrivee=8
+
+Drone 2:
+http://localhost:3000/?depart=4&arrivee=5
+
+Drone 3:
+http://localhost:3000/?depart=10&arrivee=1

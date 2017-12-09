@@ -16,11 +16,4 @@
     "jsx-a11y/anchor-is-valid": "off",
     "jsx-a11y/anchor-has-content": "off"
   },
-  "settings": {
-    "import/resolver": {
-      "node": {
-        "paths": ["app/"]
-      }
-    }
-  }
 }
